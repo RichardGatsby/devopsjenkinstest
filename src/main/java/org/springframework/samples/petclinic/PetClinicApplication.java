@@ -23,7 +23,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 
 /**
  * PetClinic Spring Boot Application.
- *asdasd
+ *asdasda
  * @author Dave Syer
  *
  */
